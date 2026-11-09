@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on...<br>Idarah — a school management system covering student behaviour tracking, attendance, and administrative workflows<br><br>🌱 I'm currently learning...<br>Deepening my software engineering fundamentals at university while building real-world projects.<br><br>💬 Ask me about..<br>Web development, Python, or building practical systems and tools<br><br>⚡ Fun fact...<br>Former science teacher and school IT lead — now building the kind of tools I used to rely on
+🔭 I'm currently working on...<br>My very own Programming Language! <br><br>🌱 I'm currently learning...<br>Deepening my software engineering fundamentals at university while building real-world projects.<br><br>💬 Ask me about..<br>Web development, Python, or building practical systems and tools<br><br>⚡ Fun fact...<br>Former science teacher and school IT lead — now building the kind of tools I used to rely on
 
 
 # 💻 Tech Stack:
